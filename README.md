@@ -163,7 +163,7 @@ https://www.udemy.com/course/certificacao-google-cloud-associate/
 
 ## **roadmap**
 
-Tecnologias e Ferramentas a abordar: 
+Próximas tecnologias e ferramentas que serão abordadas:
 
 - [ ] WAF
 - [ ] CDN
